@@ -1,0 +1,91 @@
+[ 
+  {
+      name : "Margherita",
+      summary : "A veg cheesy pizzas loaded with onion and mushroom made in the authentic",
+      mediumprice : 399,
+      largeprice : 699,
+      img : "https://media.istockphoto.com/id/842082336/photo/homemade-veggie-pizza-with-mushrooms-peppers.jpg?s=1024x1024&w=is&k=20&c=5OlVni100w7hk4qjiGricTbdLoFynkUPJ02yLGVR2VA="
+  },
+  {
+      name : "Double Cheese Margherita",
+      summary : "A veg cheesy pizzas loaded with onion and mushroom made in the authentic",
+      mediumprice : 399,
+      largeprice : 699,
+      img : "https://media.istockphoto.com/id/842082336/photo/homemade-veggie-pizza-with-mushrooms-peppers.jpg?s=1024x1024&w=is&k=20&c=5OlVni100w7hk4qjiGricTbdLoFynkUPJ02yLGVR2VA="
+
+  },
+   {
+      name : "Farm House",
+      summary : "A veg cheesy pizzas loaded with onion and mushroom made in the authentic",
+      mediumprice : 399,
+      largeprice : 699,
+      img : "https://media.istockphoto.com/id/842082336/photo/homemade-veggie-pizza-with-mushrooms-peppers.jpg?s=1024x1024&w=is&k=20&c=5OlVni100w7hk4qjiGricTbdLoFynkUPJ02yLGVR2VA="
+
+  },
+   {
+      name : "Peppy Paneer",
+      summary : "A veg cheesy pizzas loaded with onion and mushroom made in the authentic",
+      mediumprice : 399,
+      largeprice : 699,
+      img : "https://media.istockphoto.com/id/842082336/photo/homemade-veggie-pizza-with-mushrooms-peppers.jpg?s=1024x1024&w=is&k=20&c=5OlVni100w7hk4qjiGricTbdLoFynkUPJ02yLGVR2VA="
+
+  },
+   {
+      name : "Deluxe Veggie",
+      summary : "A veg cheesy pizzas loaded with onion and mushroom made in the authentic",
+      mediumprice : 399,
+      largeprice : 699,
+      img : "https://media.istockphoto.com/id/842082336/photo/homemade-veggie-pizza-with-mushrooms-peppers.jpg?s=1024x1024&w=is&k=20&c=5OlVni100w7hk4qjiGricTbdLoFynkUPJ02yLGVR2VA="
+
+  },
+   {
+      name : "Veg Extravaganza",
+      summary : "A veg cheesy pizzas loaded with onion and mushroom made in the authentic",
+      mediumprice : 399,
+      largeprice : 699,
+      img : "https://media.istockphoto.com/id/842082336/photo/homemade-veggie-pizza-with-mushrooms-peppers.jpg?s=1024x1024&w=is&k=20&c=5OlVni100w7hk4qjiGricTbdLoFynkUPJ02yLGVR2VA="
+
+  },
+  
+      {
+          name : "Jerked Chicken Pizza",
+          summary : "Cheese Overloaded pizza with 4 different varieties of cheese and 4 times the cheese of a normal pizza",
+          largeprice :599,
+          mediumprice :1049,
+          img : "https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hpY2tlbiUyMHBpenphfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+          name : "Kosha Chicken Pizza",
+          summary :"Cheese Overloaded pizza with 4 different varieties of cheese and 4 times the cheese of a normal pizza",
+          largeprice : 499,
+          mediumprice : 999,
+          img : "https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hpY2tlbiUyMHBpenphfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+          name : "Kasundi Chicken Pizza",
+          summary :"Cheese Overloaded pizza with 4 different varieties of cheese and 4 times the cheese of a normal pizza",
+          largeprice : 549,
+          mediumprice : 899,
+          img : "https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hpY2tlbiUyMHBpenphfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+          name : "Pepper Barbecue Chicken",
+          summary :"Cheese Overloaded pizza with 4 different varieties of cheese and 4 times the cheese of a normal pizza",
+          largeprice : 799,
+          mediumprice : 1199,
+          img : "https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hpY2tlbiUyMHBpenphfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+          name : "Chicken Sausage",
+          summary : "Cheese Overloaded pizza with 4 different varieties of cheese and 4 times the cheese of a normal pizza",
+          largeprice : 399,
+          mediumprice : 799,
+          img : "https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hpY2tlbiUyMHBpenphfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+
+      }
+  
+
+]

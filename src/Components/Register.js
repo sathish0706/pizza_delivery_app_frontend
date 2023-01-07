@@ -24,7 +24,7 @@ export default function Register () {
               const response = await axios.post("https://webcode-2-pizza-delivery-backend.onrender.com/customers/signup",values)
               // localStorage.setItem("myreact", response.data.token)
               console.log(response);
-              navigate("/signin")
+              navigate("/")
               
             }catch(err){
               console.log(err)

@@ -45,7 +45,7 @@ function Signin ({ setLoginUser }) {
 
     return (<div className='singnin-row-container'>
         <div className="singin-container">
-            <h2>Sing In</h2>
+            <h2>Sign In</h2>
 
             <form onSubmit={formik.handleSubmit}>
             <TextField  label="User name"
